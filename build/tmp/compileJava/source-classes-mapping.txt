@@ -1,0 +1,16 @@
+co/com/choucair/certification/reto1/tasks/Forms.java
+ co.com.choucair.certification.reto1.tasks.Forms
+co/com/choucair/certification/reto1/userinterface/ColorlibFormsPage.java
+ co.com.choucair.certification.reto1.userinterface.ColorlibFormsPage
+co/com/choucair/certification/reto1/tasks/OpenUp.java
+ co.com.choucair.certification.reto1.tasks.OpenUp
+co/com/choucair/certification/reto1/tasks/Login.java
+ co.com.choucair.certification.reto1.tasks.Login
+co/com/choucair/certification/reto1/userinterface/ColorlibLoginPage.java
+ co.com.choucair.certification.reto1.userinterface.ColorlibLoginPage
+co/com/choucair/certification/reto1/userinterface/ColorlibPage.java
+ co.com.choucair.certification.reto1.userinterface.ColorlibPage
+co/com/choucair/certification/reto1/userinterface/ColorlibInlineValPage.java
+ co.com.choucair.certification.reto1.userinterface.ColorlibInlineValPage
+co/com/choucair/certification/reto1/tasks/InlineVal.java
+ co.com.choucair.certification.reto1.tasks.InlineVal
