@@ -5,14 +5,8 @@ import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
 public class ColorlibFormsPage extends PageObject {
-    public static final Target MenuForm_Elem= Target.the("seleccione Form Elementos")
-            .located(By.xpath("(//A[@href='#'])[2]"));
 
-    public static final Target Validations= Target.the("Clic en Validations")
-            .located(By.xpath("//A[@href='form-validation.html'][text()='Validation']"));
 
-    public static final Target Block_Validation= Target.the("block validation")
-           .located(By.xpath("//H5[text()='Block Validation']"));
 
     public static final Target Required= Target.the("ingresar required")
             .located(By.xpath("//INPUT[@id='required2']"));

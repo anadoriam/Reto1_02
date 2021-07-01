@@ -11,6 +11,7 @@ public class OpenUp implements Task{
     private ColorlibPage colorlibPage;
 
     public static Performable thePage() {
+
         return Tasks.instrumented(OpenUp.class);
     }
 

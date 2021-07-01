@@ -16,9 +16,7 @@ public class Forms implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
-                Click.on(ColorlibFormsPage.MenuForm_Elem),
-                Click.on(ColorlibFormsPage.Validations),
-                Click.on(ColorlibFormsPage.Block_Validation),
+
                 Enter.theValue("Ana").into(ColorlibFormsPage.Required),
                 Enter.theValue("adoriam@choucairtesting.com").into(ColorlibFormsPage.E_mail),
                 Enter.theValue("Anadm").into(ColorlibFormsPage.Password),

@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions (
         features = "src/test/resources/features/Colorlib.feature",
-        tags = "@escenario1",
+        tags = "@stories",
         glue = "co.com.choucair.certification.reto1.stepdefinitions",
         snippets = SnippetType.CAMELCASE )
 

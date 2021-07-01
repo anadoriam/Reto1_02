@@ -1,16 +1,32 @@
-co/com/choucair/certification/reto1/tasks/Forms.java
- co.com.choucair.certification.reto1.tasks.Forms
-co/com/choucair/certification/reto1/userinterface/ColorlibFormsPage.java
- co.com.choucair.certification.reto1.userinterface.ColorlibFormsPage
+co/com/choucair/certification/reto1/questions/Answer2.java
+ co.com.choucair.certification.reto1.questions.Answer2
 co/com/choucair/certification/reto1/tasks/OpenUp.java
  co.com.choucair.certification.reto1.tasks.OpenUp
+co/com/choucair/certification/reto1/userinterface/InlineErrorPage.java
+ co.com.choucair.certification.reto1.userinterface.InlineErrorPage
 co/com/choucair/certification/reto1/tasks/Login.java
  co.com.choucair.certification.reto1.tasks.Login
 co/com/choucair/certification/reto1/userinterface/ColorlibLoginPage.java
  co.com.choucair.certification.reto1.userinterface.ColorlibLoginPage
-co/com/choucair/certification/reto1/userinterface/ColorlibPage.java
- co.com.choucair.certification.reto1.userinterface.ColorlibPage
-co/com/choucair/certification/reto1/userinterface/ColorlibInlineValPage.java
- co.com.choucair.certification.reto1.userinterface.ColorlibInlineValPage
+co/com/choucair/certification/reto1/questions/Answer.java
+ co.com.choucair.certification.reto1.questions.Answer
 co/com/choucair/certification/reto1/tasks/InlineVal.java
  co.com.choucair.certification.reto1.tasks.InlineVal
+co/com/choucair/certification/reto1/tasks/SearchValidation.java
+ co.com.choucair.certification.reto1.tasks.SearchValidation
+co/com/choucair/certification/reto1/userinterface/ColorlibPage.java
+ co.com.choucair.certification.reto1.userinterface.ColorlibPage
+co/com/choucair/certification/reto1/userinterface/BuscarTituloPage.java
+ co.com.choucair.certification.reto1.userinterface.BuscarTituloPage
+co/com/choucair/certification/reto1/userinterface/ColorlibInlineValPage.java
+ co.com.choucair.certification.reto1.userinterface.ColorlibInlineValPage
+co/com/choucair/certification/reto1/userinterface/ColorlibFormsPage.java
+ co.com.choucair.certification.reto1.userinterface.ColorlibFormsPage
+co/com/choucair/certification/reto1/tasks/Search.java
+ co.com.choucair.certification.reto1.tasks.Search
+co/com/choucair/certification/reto1/tasks/Forms.java
+ co.com.choucair.certification.reto1.tasks.Forms
+co/com/choucair/certification/reto1/tasks/InlineError.java
+ co.com.choucair.certification.reto1.tasks.InlineError
+co/com/choucair/certification/reto1/userinterface/SearchValidationPage.java
+ co.com.choucair.certification.reto1.userinterface.SearchValidationPage

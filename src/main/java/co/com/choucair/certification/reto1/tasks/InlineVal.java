@@ -29,7 +29,7 @@ public class InlineVal implements Task {
                 Enter.theValue("123").into(ColorlibInlineValPage.Minm3Chars),
                 Enter.theValue("123456").into(ColorlibInlineValPage.Max6Chars),
                 Enter.theValue("123").into(ColorlibInlineValPage.Minm3),
-                Enter.theValue("kjiuhygtrewasdg").into(ColorlibInlineValPage.Max16),
+                Enter.theValue("1").into(ColorlibInlineValPage.Max16),
                 Click.on(ColorlibInlineValPage.Butt_Val)
         );
 
